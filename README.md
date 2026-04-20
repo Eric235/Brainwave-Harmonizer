@@ -11,11 +11,13 @@ It is important to know that all sound affects your brainwaves. Any rhythmic ele
 
 •	By comparing the frequency of the modulators in the display to the rhythm of your music, you can learn exactly how different sounds and tempos trigger specific brainwave states.
 ________________________________________
+
 How to Install
 
 •	Place the Brainwave Harmonizer.vst3 file into C:\Program Files\Common Files\VST3.
 •	Copy/paste the license key you received in your email to unlock.
 ________________________________________
+
 Modulators:
 
 This section creates the actual brainwave effect. These modules can be used individually or blended together.
@@ -30,6 +32,7 @@ Module Controls:
 •	MAIN PWR: The volume or strength of that specific module.
 •	QUANTIZE: Snaps the modulation speed to the project tempo (Straight/Triplet/Quintuplet). The Frequency Dial moves the speed up or down in musical octaves so the effect always stays in perfect sync with your music.
 ________________________________________ 
+
 Global Controls
 
 •	BYPASS: bypasses all modulations so you can quickly compare the original music with the brainwave infused music. 
@@ -38,9 +41,11 @@ Global Controls
 •	SYNC OFFSET: Adjusts the "start point" of the modulation waves so that you can adjust exactly how the music lines up with the modulations.  
 •	MASTER / PLAY VOL: Master is the total output volume; Play Vol adjusts the music track alone.
 ________________________________________
-TUNING FILE EXPORTER.
+
+UNING FILE EXPORTER.
 
 This allows you to export custom tuning maps (.tun, .scl, .ascl, or Kontakt Scripts) for other synthesizers like Omnipshere, Serum or Vital.
-•	Tempo-Matched Reference Pitch: Unique to this tool, the reference pitch is automatically calculated from your project tempo. It finds a frequency that is a perfect octave, fifth, or major third of your BPM depending on the quantize setting you chose. This ensures that your other synths are in perfect harmony with the rhythm of your music. If you tune your music like this, then you can use the higher modulations that create audio tones, and those tones will be in perfect harmony with your music.
+•	T<img width="782" height="693" alt="vst" src="https://github.com/user-attachments/assets/c4ed6b2b-49f8-4bd6-b37c-8d019ba6c2ba" />mpo-Matched Reference Pitch: Unique to this tool, the reference pitch is automatically calculated from your project tempo. It finds a frequency that is a perfect octave, fifth, or major third of your BPM depending on the quantize setting you chose. This ensures that your other synths are in perfect harmony with the rhythm of your music. If you tune your music like this, then you can use the higher modulations that create audio tones, and those tones will be in perfect harmony with your music.
+<img width="782" height="693" alt="vst" src="https://github.com/user-attachments/assets/12121e14-7d31-485a-bfe1-e03a90ea773f" />
 ________________________________________
 
