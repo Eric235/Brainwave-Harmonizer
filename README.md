@@ -42,7 +42,7 @@ Global Controls
 •	MASTER / PLAY VOL: Master is the total output volume; Play Vol adjusts the music track alone.
 ________________________________________
 
-UNING FILE EXPORTER.
+TUNING FILE EXPORTER.
 
 This allows you to export custom tuning maps (.tun, .scl, .ascl, or Kontakt Scripts) for other synthesizers like Omnipshere, Serum or Vital.
 •	Tempo-Matched Reference Pitch: Unique to this tool, the reference pitch is automatically calculated from your project tempo. It finds a frequency that is a perfect octave, fifth, or major third of your BPM depending on the quantize setting you chose. This ensures that your other synths are in perfect harmony with the rhythm of your music. If you tune your music like this, then you can use the higher modulations that create audio tones, and those tones will be in perfect harmony with your music.
