@@ -1,13 +1,9 @@
 # Brainwave-Harmonizer
-Brainwave Harmonizer VST3 Instruction Manual
-
-QUICK START: If you don’t want to read all this, just turn up the MAIN PWR on the module you want to try. Then adjust the FREQ.
-
-Turn on BAND-PASS and use LO-CUT and HI-CUT in the GLOBAL CONTROLS if it is too powerful. 
-
-Only try the LFO after you have a nice setting for MAIN PWR and want it to get stronger and weaker over time.
+Brainwave Harmonizer VST3 
+Free Demos here: https://payhip.com/MathemagicalMusic 
 
 The Philosophy
+
 Brainwave Harmonizer uses a blend of brainwave theory and music theory to achieve perfectly consonant brainwave patterns. Your brain is a physical resonator. When exposed to rhythmic pulses or vibrations, it naturally attempts to "entrain" or sync up with that rhythm. By using perfect musical intervals to drive these frequencies, the Harmonizer creates a significantly smoother, more harmonious effect on the nervous system than standard brainwave tools which allow all frequency combinations.
 It is important to know that all sound affects your brainwaves. Any rhythmic element in music, like a drum beat, a pulsing synth, or a vocal tremolo acts as a brainwave driver. This tool allows you to take control of that biological process, making the effects your music has intentional, harmonious, and effective.
 
