@@ -1,9 +1,11 @@
 # Brainwave-Harmonizer
 Brainwave Harmonizer VST3 https://payhip.com/MathemagicalMusic
 
-Brainwave Harmonizer uses a blend of brainwave theory and music theory to achieve perfectly consonant brainwave patterns. Your brain is a physical resonator. When exposed to rhythmic pulses or vibrations, it naturally attempts to "entrain" or sync up with that rhythm. By using perfect musical intervals to drive these frequencies, the Harmonizer creates a significantly smoother, more harmonious effect on the nervous system than standard brainwave tools which allow all frequency combinations.
+Brainwave Harmonizer uses a blend of brainwave theory and music theory to achieve perfectly consonant brainwave patterns. 
 
 <img width="786" height="696" alt="vst" src="https://github.com/user-attachments/assets/bc34ff29-55cf-4bdb-b26a-08d9b98effdc" />
+
+Your brain is a physical resonator. When exposed to rhythmic pulses or vibrations, it naturally attempts to "entrain" or sync up with that rhythm. By using perfect musical intervals to drive these frequencies, the Harmonizer creates a significantly smoother, more harmonious effect on the nervous system than standard brainwave tools which allow all frequency combinations.
 
 It is important to know that all sound affects your brainwaves. Any rhythmic element in music, like a drum beat, a pulsing synth, or a vocal tremolo acts as a brainwave driver. This tool allows you to take control of that biological process, making the effects your music has intentional, harmonious, and effective.
 
