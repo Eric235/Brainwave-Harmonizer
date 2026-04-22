@@ -66,9 +66,9 @@ This allows you to export custom tuning maps (.tun, .scl, .ascl, or Kontakt Scri
 ________________________________________
 
 There is also a standalone desktop version with two modes. In generator mode you can create and render very complex sine wave and noise based brainwave patterns. 
-
-<img width="586" height="433" alt="Standalone1" src="https://github.com/user-attachments/assets/d38cef96-8cf2-4d2c-a9fa-f24e97e00b6b" />
+<img width="786" height="833" alt="Standalone1" src="https://github.com/user-attachments/assets/9b04c4b0-5f7a-4fbf-b5ec-cd58390cb1d9" />
 
 In audio player mode you can load any audio file and add brainwave modulations to a narrow frequency band leaving the rest of the music untouched. It also analyses and locks to the BPM of the audio file, so all brainwave modulations will work with the music and not against it.
 
-<img width="587" height="431" alt="Standalone2" src="https://github.com/user-attachments/assets/ab6cc4af-31d7-4e61-90b7-5dfb6bfedba2" />
+<img width="787" height="831" alt="Standalone2" src="https://github.com/user-attachments/assets/2ed36eb0-6f48-429c-811b-e8d2fafef7b6" />
+
