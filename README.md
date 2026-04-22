@@ -2,11 +2,7 @@
 Brainwave Harmonizer VST3 https://payhip.com/MathemagicalMusic
 
 <img width="582" height="493" alt="vst" src="https://github.com/user-attachments/assets/12121e14-7d31-485a-bfe1-e03a90ea773f" />
-
-
-
-
-
+-
 Brainwave Harmonizer uses a blend of brainwave theory and music theory to achieve perfectly consonant brainwave patterns. Your brain is a physical resonator. When exposed to rhythmic pulses or vibrations, it naturally attempts to "entrain" or sync up with that rhythm. By using perfect musical intervals to drive these frequencies, the Harmonizer creates a significantly smoother, more harmonious effect on the nervous system than standard brainwave tools which allow all frequency combinations.
 
 It is important to know that all sound affects your brainwaves. Any rhythmic element in music, like a drum beat, a pulsing synth, or a vocal tremolo acts as a brainwave driver. This tool allows you to take control of that biological process, making the effects your music has intentional, harmonious, and effective.
@@ -70,9 +66,10 @@ This allows you to export custom tuning maps (.tun, .scl, .ascl, or Kontakt Scri
 •	Tempo-Matched Reference Pitch: Unique to this tool, the reference pitch is automatically calculated from your project tempo. It finds a frequency that is a perfect octave, fifth, or major third of your BPM depending on the quantize setting you chose. This ensures that your other synths are in perfect harmony with the rhythm of your music. If you tune your music like this, then you can use the higher modulations that create audio tones, and those tones will be in perfect harmony with your music.
 ________________________________________
 
-<img width="782" height="693" alt="vst" src="https://github.com/user-attachments/assets/12121e14-7d31-485a-bfe1-e03a90ea773f" />
+There is also a standalone desktop version with two modes. In generator mode you can create and render very complex sine wave and noise based brainwave patterns. 
 
-There is also a standalone desktop version with two modes. In generator mode you can create and render very complex sine wave and noise based brainwave patterns. ​In audio player mode you can load any audio file and add brainwave modulations to a narrow frequency band leaving the rest of the music untouched. It also analyses and locks to the BPM of the audio file, so all brainwave modulations will work with the music and not against it.
+<img width="587" height="431" alt="Standalone2" src="https://github.com/user-attachments/assets/ab6cc4af-31d7-4e61-90b7-5dfb6bfedba2" />​
 
-<img width="787" height="831" alt="Standalone2" src="https://github.com/user-attachments/assets/ab6cc4af-31d7-4e61-90b7-5dfb6bfedba2" />
-<img width="786" height="833" alt="Standalone1" src="https://github.com/user-attachments/assets/d38cef96-8cf2-4d2c-a9fa-f24e97e00b6b" />
+In audio player mode you can load any audio file and add brainwave modulations to a narrow frequency band leaving the rest of the music untouched. It also analyses and locks to the BPM of the audio file, so all brainwave modulations will work with the music and not against it.
+
+<img width="586" height="433" alt="Standalone1" src="https://github.com/user-attachments/assets/d38cef96-8cf2-4d2c-a9fa-f24e97e00b6b" />
