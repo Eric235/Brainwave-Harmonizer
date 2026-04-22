@@ -1,7 +1,5 @@
 # Brainwave-Harmonizer
-Brainwave Harmonizer VST3 
-
-Free Demos here: https://payhip.com/MathemagicalMusic
+Brainwave Harmonizer VST3 https://payhip.com/MathemagicalMusic
 
 <img width="582" height="493" alt="vst" src="https://github.com/user-attachments/assets/12121e14-7d31-485a-bfe1-e03a90ea773f" />
 
